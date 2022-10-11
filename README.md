@@ -90,7 +90,11 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 ## Meus Bagdes
  
 <!--START_SECTION:badges-->
- 
+[![IBM Garage Essentials](https://images.credly.com/size/150x150/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/8c2f30b7-45d6-471f-af21-ba8d57565be8 "IBM Garage Essentials")
+[![IBM AI Associate for All IBMers](https://images.credly.com/size/150x150/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/d6b3f822-076e-447d-bbca-02f704c92bdb "IBM AI Associate for All IBMers")
+[![IBM Agile Explorer](https://images.credly.com/size/150x150/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/75b8d34b-eb2a-46cb-b627-cc5d872c5b01 "IBM Agile Explorer")
+[![Big Data Foundations - Level 1](https://images.credly.com/size/150x150/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/0fc3bd94-ce8f-423c-b09f-46855b88b8d9 "Big Data Foundations - Level 1")
+[![The IBM Way](https://images.credly.com/size/150x150/images/009696ad-3bb2-48e7-88d6-48c4a0d2c9a3/The-IBM-Way.png)](http://www.credly.com/badges/9f80c32c-d2fd-439b-8bbf-b6af76e3ed18 "The IBM Way")
 <!--END_SECTION:badges-->
 
 

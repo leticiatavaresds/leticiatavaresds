@@ -126,9 +126,8 @@ Linguagens & Tecnologias: `Python`, `SAP`, `ETL`\
   <img src="https://img.shields.io/github/followers/leticiatavaresds?label=follow&style=social"/></a>&nbsp&nbsp&nbsp&nbsp
 </p>   
 
-<!--
-![Snake animation](https://github.com/leticiatavaresds/leticiatavaresds/blob/main/.github/workflows/cobrinha.yml)
--->
+
+![Snake animation](https://github.com/leticiatavaresds/leticiatavaresds/blob/output/github-contribution-grid-snake.svg)
 
 
       

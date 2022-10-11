@@ -2,18 +2,24 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 02:00 UTC every day
-    - cron: "27 16 * * *"
-
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: leticiatavaresds/badge-readme@main
         with:
-          # Optional, 110x110 default
-          BADGE_SIZE: 96
-          # Optional, but default will use the same from GitHub
-          CREDLY_USER: alexandre-teyar 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 150
+          NUMBER_LAST_BADGES: 24

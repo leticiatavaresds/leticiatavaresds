@@ -88,8 +88,9 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  </div>
 
 ## Meus Bagdes
-
+ 
 <!--START_SECTION:badges-->
+ 
 <!--END_SECTION:badges-->
 
 

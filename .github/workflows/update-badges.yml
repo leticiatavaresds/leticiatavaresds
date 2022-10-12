@@ -23,3 +23,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 20
+          CREDLY_SORT: POPULAR

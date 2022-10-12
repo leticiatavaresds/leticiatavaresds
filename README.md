@@ -90,6 +90,7 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 ## Meus Bagdes
  
 <!--START_SECTION:badges-->
+[![Data Science Foundations - Level 1](https://images.credly.com/size/80x80/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/e8e3246a-5741-404e-b6ca-1f00cc714dba "Data Science Foundations - Level 1")
 [![IBM Garage Essentials](https://images.credly.com/size/80x80/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/8c2f30b7-45d6-471f-af21-ba8d57565be8 "IBM Garage Essentials")
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/80x80/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/d6b3f822-076e-447d-bbca-02f704c92bdb "IBM AI Associate for All IBMers")
 [![IBM Agile Explorer](https://images.credly.com/size/80x80/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/75b8d34b-eb2a-46cb-b627-cc5d872c5b01 "IBM Agile Explorer")

@@ -6,7 +6,7 @@
 <img height="220px" width="350em"  src="https://github-readme-stats.vercel.app/api?username=leticiatavaresds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 -->
 
-# Olá, visitante 👋
+# <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/robot.png"> Olá, visitante
 
 Sou a Letícia, uma cientista da computação em formação apaixonada pela manipulação e análise de dados. <br>
 Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvidos.
@@ -48,14 +48,14 @@ e trabalho como Early Associate - Ciência de Dados na IBM. <br>
 Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 </p>  
 
-  <h2> GitHub Estatísticas </h2>  
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/bar-chart%20(1).png"> GitHub Estatísticas
   
  <div align="center">
     <a href="https://github.com/leticiatavaresds">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatavaresds&layout=compact&langs_count=7&theme=radical"/>
   </div>
 
-  ## Skills
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/competence%20(1).png"> Skills
  
   <h4> Linguagens </h4> 
      
@@ -135,7 +135,8 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  <h4>Implantação do Modelo</h4> 
  
  <h4>Monitoramento e Avaliação de Modelos</h4> -->
-## Meus Bagdes
+ 
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/ribbon%20(1).png"> Bagdes
  
 <!--START_SECTION:badges-->
 [![IBM Agile Explorer](https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/75b8d34b-eb2a-46cb-b627-cc5d872c5b01 "IBM Agile Explorer")
@@ -150,7 +151,8 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 <!--END_SECTION:badges-->
 
 
-## Experiência de trabalho
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/suitcase%20(1).png"> Experiência de trabalho
+
   
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>](https://www.ibm.com/)
 **Early Associate Data Scientist** \
@@ -170,7 +172,7 @@ Linguagens & Tecnologias: `R`, `Selenium`, `Jupyter Notebook`, `RStudio`, `SQL`\
 Linguagens & Tecnologias: `Python`, `SAP`, `ETL`\
 <br/>
 
-<h2> Onde me encontrar: </h2> 
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/contact.png"> Onde me encontrar:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leticia-tavares-lts/" alt="Linkedin">

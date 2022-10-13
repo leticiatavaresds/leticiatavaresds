@@ -14,7 +14,7 @@ Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvid
 ## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/woman.png"> Mais sobre mim
 
 
-<img align="right" width="300" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Hand%20coding-bro.png" />
+<img align="right" width="300" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/oie_trans.gif" />
 <!--
 <div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>-->
 

@@ -56,7 +56,7 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 
   ## Skills
  
-  <h3> Linguagens </h3> 
+  <h4> Linguagens </h4> 
      
   <div> 
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" >
@@ -66,6 +66,7 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
     <img height="30" space="30; 0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> 
     <img height="20" src="https://progress-bar.dev/60" alt="SQL-progress" > &nbsp&nbsp&nbsp&nbsp
   </div>
+
  
 <div> 
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
@@ -76,14 +77,36 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
   <img height="20" src="https://progress-bar.dev/40" alt="html-progress" > &nbsp&nbsp&nbsp&nbsp
 </div>
   
-  <h3> Ferramentas </h3>  
+ <h4>Gerenciamento de Dados</h4>  
+ 
+ <div> 
+  <a href="https://www.mysql.com/" alt="MySQL">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+  <img height="20" src="https://progress-bar.dev/40" alt="java-progress" > &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.postgresql.org/" alt="PostgreSQL">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a>
+  <img height="20" src="https://progress-bar.dev/30" alt="javascript-progress" > &nbsp&nbsp&nbsp&nbsp
+  <a href="https://duckdb.org/" alt="DuckDB">
+  <img height="30" src="https://pbs.twimg.com/profile_images/1274363897676521474/qgbqYYuV_400x400.jpg"></a>
+  <img height="20" src="https://progress-bar.dev/40" alt="html-progress" > &nbsp&nbsp&nbsp&nbsp
+</div>
+ 
+ <h4>Integração e Transformação de Dados</h4> 
+ 
+ <h4>Visualização de Dados</h4> 
+ 
+ <h4>Construção de Modelos</h4> 
+ 
+ <h4>Implantação do Modelo</h4> 
+ 
+ <h4>Monitoramento e Avaliação de Modelos</h4> 
 
 <div>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
   <img height="20" src="https://progress-bar.dev/70" alt="git-progress" > &nbsp&nbsp&nbsp&nbsp
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> 
   <img height="20" src="https://progress-bar.dev/80" alt="vsc-progress" > &nbsp&nbsp&nbsp&nbsp
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> 
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
   <img height="20" src="https://progress-bar.dev/70" alt="terminal-progress" > &nbsp&nbsp&nbsp&nbsp
  </div>
 

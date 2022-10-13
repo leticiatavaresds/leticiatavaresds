@@ -59,37 +59,71 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
   <h4> Linguagens </h4> 
      
   <div> 
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" >
-    <img height="20" src="https://progress-bar.dev/80" alt="Python-progress"> &nbsp&nbsp&nbsp&nbsp
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"> 
-    <img height="20" src="https://progress-bar.dev/60" alt="R-progress" >  &nbsp&nbsp&nbsp&nbsp
-    <img height="30" space="30; 0" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> 
-    <img height="20" src="https://progress-bar.dev/60" alt="SQL-progress" > &nbsp&nbsp&nbsp&nbsp
-  </div>
+   <a href="https://www.python.org/" alt="Python">
+   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></a> 
+   <img height="20" src="https://progress-bar.dev/80"/> &nbsp&nbsp&nbsp&nbsp
 
+   <a href="https://www.r-project.org/" alt="R">
+   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/> </a> 
+   <img height="20" src="https://progress-bar.dev/70"/> &nbsp&nbsp&nbsp&nbsp
+   
+   <a href="https://github.com/search?q=sql" alt="SQL">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></a>
+    <img height="20" src="https://progress-bar.dev/70"/> &nbsp&nbsp&nbsp&nbsp
+   
+  </div>
  
-<div> 
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
-  <img height="20" src="https://progress-bar.dev/40" alt="java-progress" > &nbsp&nbsp&nbsp&nbsp
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
-  <img height="20" src="https://progress-bar.dev/30" alt="javascript-progress" > &nbsp&nbsp&nbsp&nbsp
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
-  <img height="20" src="https://progress-bar.dev/40" alt="html-progress" > &nbsp&nbsp&nbsp&nbsp
-</div>
+ <div> 
+   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 
+   <img height="20" src="https://progress-bar.dev/40"> &nbsp&nbsp&nbsp&nbsp
   
+   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> 
+   <img height="20" src="https://progress-bar.dev/30"> &nbsp&nbsp&nbsp&nbsp
+  
+   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> 
+   <img height="20" src="https://progress-bar.dev/40"> &nbsp&nbsp&nbsp&nbsp
+ </div>
+  
+ <h4>Ambientes de Desenvolvimento</h4>
+ 
+ <div>
+  
+ <a href="https://jupyter.org/" alt="Jupyter Notebook">
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"> </a> 
+ <img height="20" src="https://progress-bar.dev/90"> &nbsp&nbsp&nbsp&nbsp
+
+ <a href="https://code.visualstudio.com/" alt="VSC">
+ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> </a> 
+ <img height="20" src="https://progress-bar.dev/85"> &nbsp&nbsp&nbsp&nbsp
+  
+ <a href="https://www.rstudio.com/" alt="RStudio">
+ <img height="30" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png"> </a> 
+ <img height="20" src="https://progress-bar.dev/85"> &nbsp&nbsp&nbsp&nbsp
+ 
+ </div>
+ 
  <h4>Gerenciamento de Dados</h4>  
  
  <div> 
   <a href="https://www.mysql.com/" alt="MySQL">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
-  <img height="20" src="https://progress-bar.dev/40" alt="java-progress" > &nbsp&nbsp&nbsp&nbsp
+  <img height="20" src="https://progress-bar.dev/75"/> &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.postgresql.org/" alt="PostgreSQL">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a>
-  <img height="20" src="https://progress-bar.dev/30" alt="javascript-progress" > &nbsp&nbsp&nbsp&nbsp
+  <img height="20" src="https://progress-bar.dev/75"/> &nbsp&nbsp&nbsp&nbsp
   <a href="https://duckdb.org/" alt="DuckDB">
   <img height="30" src="https://pbs.twimg.com/profile_images/1274363897676521474/qgbqYYuV_400x400.jpg"></a>
-  <img height="20" src="https://progress-bar.dev/40" alt="html-progress" > &nbsp&nbsp&nbsp&nbsp
+  <img height="20" src="https://progress-bar.dev/75"/> &nbsp&nbsp&nbsp&nbsp
 </div>
+  
+ <h4> Sistema de Controle de Versão</h4> 
+
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
+  <img height="20" src="https://progress-bar.dev/80" alt="git-progress" > &nbsp&nbsp&nbsp&nbsp  
+ </div>
+
+ <!--
  
  <h4>Integração e Transformação de Dados</h4> 
  
@@ -99,17 +133,7 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  
  <h4>Implantação do Modelo</h4> 
  
- <h4>Monitoramento e Avaliação de Modelos</h4> 
-
-<div>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> 
-  <img height="20" src="https://progress-bar.dev/70" alt="git-progress" > &nbsp&nbsp&nbsp&nbsp
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> 
-  <img height="20" src="https://progress-bar.dev/80" alt="vsc-progress" > &nbsp&nbsp&nbsp&nbsp
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-  <img height="20" src="https://progress-bar.dev/70" alt="terminal-progress" > &nbsp&nbsp&nbsp&nbsp
- </div>
-
+ <h4>Monitoramento e Avaliação de Modelos</h4> -->
 ## Meus Bagdes
  
 <!--START_SECTION:badges-->

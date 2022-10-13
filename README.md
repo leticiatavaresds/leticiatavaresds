@@ -10,7 +10,8 @@
 
 Sou a Letícia, uma cientista da computação em formação apaixonada pela manipulação e análise de dados. <br>
 Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvidos.
-## <img width="45" vspace = "50px" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/woman_portf.png"> Mais sobre mim
+
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/woman.png"> Mais sobre mim
 
 
 <img align="right" width="300" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Hand%20coding-bro.png" />

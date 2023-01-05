@@ -150,6 +150,8 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 [![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/e614858a-565f-47e1-b6b6-cde6ee9d415f "Data Science Tools")
 [![IBM AI Associate for All IBMers](https://images.credly.com/size/110x110/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/d6b3f822-076e-447d-bbca-02f704c92bdb "IBM AI Associate for All IBMers")
 [![Linux Commands & Shell Scripting Essentials](https://images.credly.com/size/110x110/images/964d28c3-1543-4e23-bc30-97a2cdc15a59/image.png)](http://www.credly.com/badges/35dda0f8-dcad-4614-8fff-5c708b807bb2 "Linux Commands & Shell Scripting Essentials")
+[![ETL and Data Pipelines with Shell, Airflow and Kafka](https://images.credly.com/size/110x110/images/8192dfac-e32b-4570-aebd-cf5eaee0c0d9/ETL_and_Data_Pipelines_with_Shell__Airflow_and_Kafka.png)](http://www.credly.com/badges/76b4ed06-cfab-4cab-9615-8a69ffbe68be "ETL and Data Pipelines with Shell, Airflow and Kafka")
+[![Data Warehousing and BI Analytics Essentials](https://images.credly.com/size/110x110/images/779d8ac4-440d-4a92-8735-064960922f56/image.png)](http://www.credly.com/badges/33b59b14-e437-4391-934c-81f2dccfc5fa "Data Warehousing and BI Analytics Essentials")
 <!--END_SECTION:badges-->
 
 

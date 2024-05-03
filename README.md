@@ -159,9 +159,14 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 
   
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.ibm.com/design/language/dce3f5b8db2c0ff04296123f424b3d41/core_blue50_on_black.svg"/>](https://www.ibm.com/)
-**Early Associate Data Scientist** \
-[**IBM**](https://www.ibm.com/br-pt) (2021 - Presente)\
+**Data Scientist** \
+[**IBM**](https://www.ibm.com/br-pt) (2022 - 2024)\
 Linguagens & Tecnologias: `Python`, `Selenium`, `SQL`, `Apache Hive`,`PySpark`,`ETL`, `Git`, `Jupyter Notebook`\
+<br/>
+
+**Early Associate Data Scientist** \
+[**IBM**](https://www.ibm.com/br-pt) (2021 - 2022)\
+Linguagens & Tecnologias: `Python`, `SQL`, `Apache Hive`,`PySpark`, `Hadoop`, `Power BI`, `ETL`, `Git`, `Jupyter Notebook`\
 <br/>
     
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="http://www.olharvirtual.ufrj.br/2006/imagens/logos/coppead.jpg"/>](https://www.coppead.ufrj.br/)

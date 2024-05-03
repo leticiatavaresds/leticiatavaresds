@@ -28,7 +28,7 @@ class leticiaTS:
         self.nome = "Letícia Tavares"
         self.curso = {"nome": "Ciência da Computação", "universidade":"UFRJ"}
         self.atuação = "Cientista de Dados"
-        self.emprego = {"cargo": "Early Associate - Ciência de Dados", "empresa":"IBM"}
+        self.emprego = {"cargo": "Cientista de Dados", "empresa":"IBM"}
 
         self.conhecimentos = list(("ETL", "Git"))
         self.linguagens = list(("Python", "R", "SQL"))
@@ -37,7 +37,7 @@ class leticiaTS:
         print(f"""
           Olá! Seja bem vinde ao meu Github! Sou a {self.nome}, {self.atuação.lower()}. 
           Atualmente, curso {self.curso['nome']} na {self.curso['universidade']} e 
-          trabalho como {self.emprego['cargo']} na {self.emprego['empresa']}. 
+          trabalhei como {self.emprego['cargo']} na {self.emprego['empresa']}. 
           Conheça um pouco mais sobre mim e meus projetos mais abaixo.""")               
 
 pessoa = leticiaTS()

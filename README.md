@@ -9,7 +9,9 @@
 # <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/robot.png"> Olá, visitante
 
 Sou a Letícia, uma cientista da computação em formação apaixonada pela manipulação e análise de dados. <br>
-Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvidos. Caso queira saber mais, visite meu [site](https://leticiatavaresds.github.io/).
+Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvidos. Caso queira saber mais, visite meu [site](https://leticiatavares.netlify.app/).
+
+
 
 ## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/woman.png"> Mais sobre mim
 

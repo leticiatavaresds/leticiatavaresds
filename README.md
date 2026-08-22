@@ -138,24 +138,6 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  
  <h4>Monitoramento e Avaliação de Modelos</h4> -->
  
-## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/ribbon%20(1).png"> Bagdes
- 
-<!--START_SECTION:badges-->
-[![IBM Agile Explorer](https://images.credly.com/size/110x110/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](http://www.credly.com/badges/75b8d34b-eb2a-46cb-b627-cc5d872c5b01 "IBM Agile Explorer")
-[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/e8e3246a-5741-404e-b6ca-1f00cc714dba "Data Science Foundations - Level 1")
-[![Big Data Foundations - Level 1](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/0fc3bd94-ce8f-423c-b09f-46855b88b8d9 "Big Data Foundations - Level 1")
-[![IBM Garage Essentials](https://images.credly.com/size/110x110/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png)](http://www.credly.com/badges/8c2f30b7-45d6-471f-af21-ba8d57565be8 "IBM Garage Essentials")
-[![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png)](http://www.credly.com/badges/9c0476d2-bcb4-4e66-b771-d09ebc1dcd75 "Databases and SQL for Data Science")
-[![Data Science Foundations - Level 2 (V2)](https://images.credly.com/size/110x110/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png)](http://www.credly.com/badges/278e1a61-00dc-4d99-b829-95b293d84c1b "Data Science Foundations - Level 2 (V2)")
-[![The IBM Way](https://images.credly.com/size/110x110/images/009696ad-3bb2-48e7-88d6-48c4a0d2c9a3/The-IBM-Way.png)](http://www.credly.com/badges/9f80c32c-d2fd-439b-8bbf-b6af76e3ed18 "The IBM Way")
-[![Data Science Methodologies](https://images.credly.com/size/110x110/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png)](http://www.credly.com/badges/15062f18-a5c0-47bf-b543-10f865708644 "Data Science Methodologies")
-[![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/e614858a-565f-47e1-b6b6-cde6ee9d415f "Data Science Tools")
-[![IBM AI Associate for All IBMers](https://images.credly.com/size/110x110/images/4e05e7e2-bc65-4a0f-a73d-7ef4ce8505c7/AI-for-All.png)](http://www.credly.com/badges/d6b3f822-076e-447d-bbca-02f704c92bdb "IBM AI Associate for All IBMers")
-[![Linux Commands & Shell Scripting Essentials](https://images.credly.com/size/110x110/images/964d28c3-1543-4e23-bc30-97a2cdc15a59/image.png)](http://www.credly.com/badges/35dda0f8-dcad-4614-8fff-5c708b807bb2 "Linux Commands & Shell Scripting Essentials")
-[![ETL and Data Pipelines with Shell, Airflow and Kafka](https://images.credly.com/size/110x110/images/8192dfac-e32b-4570-aebd-cf5eaee0c0d9/ETL_and_Data_Pipelines_with_Shell__Airflow_and_Kafka.png)](http://www.credly.com/badges/76b4ed06-cfab-4cab-9615-8a69ffbe68be "ETL and Data Pipelines with Shell, Airflow and Kafka")
-[![Data Warehousing and BI Analytics Essentials](https://images.credly.com/size/110x110/images/779d8ac4-440d-4a92-8735-064960922f56/image.png)](http://www.credly.com/badges/33b59b14-e437-4391-934c-81f2dccfc5fa "Data Warehousing and BI Analytics Essentials")
-<!--END_SECTION:badges-->
-
 
 ## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/suitcase%20(1).png"> Experiência de trabalho
 

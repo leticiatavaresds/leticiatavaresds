@@ -50,12 +50,6 @@ e trabalho como Early Associate - Ciência de Dados na IBM. <br>
 Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 </p>  
 
-## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/bar-chart%20(1).png"> GitHub Estatísticas
-  
- <div align="center">
-    <a href="https://github.com/leticiatavaresds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatavaresds&layout=compact&langs_count=7&theme=radical"/>
-  </div>
 
 ## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/competence%20(1).png"> Skills
  

@@ -55,20 +55,22 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  
   <h4> Linguagens </h4> 
      
-  <div> 
+  <div>
    <a href="https://www.python.org/" alt="Python">
-   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></a> 
-   <img height="20" src="https://progress-bar.dev/80"/> &nbsp&nbsp&nbsp&nbsp
-
+     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+   </a>
+   <img height="20" src="https://progress-bar.xyz/80"/> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
    <a href="https://www.r-project.org/" alt="R">
-   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/> </a> 
-   <img height="20" src="https://progress-bar.dev/70"/> &nbsp&nbsp&nbsp&nbsp
-   
+     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+   </a>
+   <img height="20" src="https://progress-bar.xyz/70"/> &nbsp;&nbsp;&nbsp;&nbsp;
+ 
    <a href="https://github.com/search?q=sql" alt="SQL">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></a>
-    <img height="20" src="https://progress-bar.dev/70"/> &nbsp&nbsp&nbsp&nbsp
-   
-  </div>
+     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+   </a>
+   <img height="20" src="https://progress-bar.xyz/70"/>
+ </div>
  
  <div> 
    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> 

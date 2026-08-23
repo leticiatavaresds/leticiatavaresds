@@ -27,8 +27,8 @@ class leticiaTS:
         
         self.nome = "Letícia Tavares"
         self.curso = {"nome": "Ciência da Computação", "universidade":"UFRJ"}
-        self.atuação = "Cientista de Dados"
-        self.emprego = {"cargo": "Cientista de Dados", "empresa":"IBM"}
+        self.atuação = "Cientista da Computação"
+        self.emprego = {"cargo": "Analista de Soluções para Efeitos Especiais", "empresa":"Globo"}
 
         self.conhecimentos = list(("ETL", "Git"))
         self.linguagens = list(("Python", "R", "SQL"))
@@ -36,17 +36,16 @@ class leticiaTS:
     def apresentacao(self):        
         print(f"""
           Olá! Seja bem vinde ao meu Github! Sou a {self.nome}, {self.atuação.lower()}. 
-          Atualmente, curso {self.curso['nome']} na {self.curso['universidade']} e 
-          trabalhei como {self.emprego['cargo']} na {self.emprego['empresa']}. 
+          Sou formada em {self.curso['nome']} pela {self.curso['universidade']} e 
+          trabalho como {self.emprego['cargo']} na {self.emprego['empresa']}. 
           Conheça um pouco mais sobre mim e meus projetos mais abaixo.""")               
 
 pessoa = leticiaTS()
 print(pessoa.apresentacao())
 ```
 <p>
-Olá! Seja bem vinde ao meu Github! Sou a Letícia Tavares, cientista de dados. <br>
-Atualmente, sou graduanda de Ciência da Computação na UFRJ <br>
-e trabalho como Early Associate - Ciência de Dados na IBM. <br>
+Olá! Seja bem vinde ao meu Github! Sou a Letícia Tavares, cientista de computação.
+Sou formada em Ciência da Computação pela UFRJ e trabalho como Analista de Soluções para Efeitos Especiais na Globo. <br>
 Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 </p>  
 

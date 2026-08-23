@@ -8,7 +8,7 @@
 
 # <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/robot.png"> Olá, visitante
 
-Sou a Letícia, uma cientista da computação em formação apaixonada pela manipulação e análise de dados. <br>
+Sou a Letícia, uma cientista da computação apaixonada por unir tecnologia, criatividade e inovacao para desenvolver solucoes que transformam ideias em realidade. <br>
 Aqui você saberá um pouco mais sobre minha trajetória e trabalhos desenvolvidos. Caso queira saber mais, visite meu [site](https://leticiatavares.netlify.app/).
 
 

@@ -135,9 +135,14 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 
 ## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/suitcase%20(1).png"> Experiência de trabalho
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/globo.png"/>](https://www.ibm.com/)
+**Analista de Soluções para Efeitos Especiais** \
+[**Globo**](https://www.globo.com/) (2024 - 2026)\
+Linguagens & Tecnologias: `Python`, `C#`, `Power Apps`, `Power Automate`,`Power BI`,`HTML`, `CSS`, `JavaScript`\
+<br/>
   
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/ibm.svg"/>](https://www.ibm.com/)
-**Data Scientist** \
+**Cientista de Dados** \
 [**IBM**](https://www.ibm.com/br-pt) (2022 - 2024)\
 Linguagens & Tecnologias: `Python`, `Selenium`, `SQL`, `Apache Hive`,`PySpark`,`ETL`, `Git`, `Jupyter Notebook`\
 <br/>
@@ -149,7 +154,7 @@ Linguagens & Tecnologias: `R`, `Selenium`, `Jupyter Notebook`, `RStudio`, `SQL`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/ibm.svg"/>](https://www.ibm.com/)
-**Early Associate Data Scientist** \
+**Early Associate - Cientista de Dados** \
 [**IBM**](https://www.ibm.com/br-pt) (2021 - 2022)\
 Linguagens & Tecnologias: `Python`, `SQL`, `Apache Hive`,`PySpark`, `Hadoop`, `Power BI`, `ETL`, `Git`, `Jupyter Notebook`\
 <br/>

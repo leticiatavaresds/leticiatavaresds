@@ -37,7 +37,7 @@ class leticiaTS:
         print(f"""
           Olá! Seja bem vinde ao meu Github! Sou a {self.nome}, {self.atuação.lower()}. 
           Sou formada em {self.curso['nome']} pela {self.curso['universidade']} e 
-          trabalho como {self.emprego['cargo']} na {self.emprego['empresa']}. 
+          trabalho como {self.emprego['cargo']} na {self.emprego['empresa']}.\n\n 
           Conheça um pouco mais sobre mim e meus projetos mais abaixo.""")               
 
 pessoa = leticiaTS()
@@ -45,7 +45,7 @@ print(pessoa.apresentacao())
 ```
 <p>
 Olá! Seja bem vinde ao meu Github! Sou a Letícia Tavares, cientista de computação.
-Sou formada em Ciência da Computação pela UFRJ e trabalho como Analista de Soluções para Efeitos Especiais na Globo. <br>
+Sou formada em Ciência da Computação pela UFRJ e trabalho como Analista de Soluções para Efeitos Especiais na Globo. <br><br>
 Conheça um pouco mais sobre mim e meus projetos mais abaixo.
 </p>  
 

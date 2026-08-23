@@ -143,7 +143,7 @@ Conheça um pouco mais sobre mim e meus projetos mais abaixo.
  <h4>Monitoramento e Avaliação de Modelos</h4> -->
  
 
-## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/suitcase%20(1).png"> Experiência de trabalho
+## <img width="45" align="left" alt="about" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/suitcase%20(1).png"> Experiência de trabalho<br>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/globo.png"/>](https://www.ibm.com/)
 **Analista de Soluções para Efeitos Especiais** \

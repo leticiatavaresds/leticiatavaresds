@@ -154,7 +154,7 @@ Linguagens & Tecnologias: `Python`, `SQL`, `Apache Hive`,`PySpark`, `Hadoop`, `P
 Linguagens & Tecnologias: `R`, `Selenium`, `Jupyter Notebook`, `RStudio`, `SQL`\
 <br/>
   
- [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/visagio.png"/>](https://visagio.com/en/home/)
+ [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/leticiatavaresds/leticiatavaresds/blob/main/Imagens/Empresas/visagio.png"/>](https://visagio.com/)
 **Estagiária - Ciência de Dados** \
 [**Visagio**](https://visagio.com/en/home/) (2021 - 2021)\
 Linguagens & Tecnologias: `Python`, `SAP`, `ETL`\
